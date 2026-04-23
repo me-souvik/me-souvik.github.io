@@ -1,6 +1,7 @@
 import profile from "../assets/profile.jpeg"; // your photo
 import ParticlesBg from "./ParticlesBg";
 import Curve from "./Curve";
+import cv from "../assets/souvik_dutta_cv_pdf.pdf";
 
 export default function Hero() {
   return (
@@ -23,7 +24,7 @@ Specialized in CRM, ERP, and secure payment systems with strong expertise in bac
           </p>
 
           <div className="hero-buttons">
-            <a href="#projects" className="btn-primary">View Projects</a>
+            <a href="{cv}" className="btn-primary">View CV</a>
             <a href="#contact" className="btn-outline">Contact Me</a>
           </div>
         </div>
