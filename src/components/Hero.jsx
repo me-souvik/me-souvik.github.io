@@ -20,7 +20,7 @@ export default function Hero() {
 
           <p>
             Full Stack Developer with 5+ years of experience building scalable web and mobile applications.
-Specialized in CRM, ERP, and secure payment systems with strong expertise in backend architecture and high-performance APIs.
+            Specialized in CRM, ERP, and secure payment systems with strong expertise in backend architecture and high-performance APIs.
           </p>
 
           <div className="hero-buttons">
