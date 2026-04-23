@@ -24,7 +24,7 @@ export default function Hero() {
           </p>
 
           <div className="hero-buttons">
-            <a href={cv} className="btn-primary">View CV</a>
+            <a href={cv} className="btn-primary" target="_blank" rel="noopener noreferrer">View CV</a>
             <a href="#contact" className="btn-outline">Contact Me</a>
           </div>
         </div>
