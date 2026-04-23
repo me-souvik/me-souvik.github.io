@@ -24,7 +24,7 @@ Specialized in CRM, ERP, and secure payment systems with strong expertise in bac
           </p>
 
           <div className="hero-buttons">
-            <a href="{cv}" className="btn-primary">View CV</a>
+            <a href={cv} className="btn-primary">View CV</a>
             <a href="#contact" className="btn-outline">Contact Me</a>
           </div>
         </div>
