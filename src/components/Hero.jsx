@@ -1,7 +1,7 @@
 import profile from "../assets/profile.jpeg"; // your photo
 import ParticlesBg from "./ParticlesBg";
 import Curve from "./Curve";
-import cv from "../assets/souvik_dutta_cv_file.pdf";
+import cv from "../assets/souvik_dutta_cv.pdf";
 
 export default function Hero() {
   return (
